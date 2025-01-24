@@ -25,7 +25,7 @@ This project is a simple clone of the Netflix homepage, designed using **HTML** 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/Khush54/Netflix-clone.git
    ```
 2. Open `Netflix.html` in your browser to view the project.
 
@@ -43,4 +43,4 @@ This project is a simple clone of the Netflix homepage, designed using **HTML** 
 ## Contact
 
 - **Name**: Khushpreet
-- **GitHub**: 
+- **GitHub**: https://github.com/Khush54
