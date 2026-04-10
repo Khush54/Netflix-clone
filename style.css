@@ -22,6 +22,7 @@ html {
 
 .nav {
     height: 10vh;
+    width: 100vw;
     background: linear-gradient(to right, rgb(0 0 0 / 23%), rgb(0 0 0 / 32%)) #06060600;
     display: flex;
     justify-content: space-evenly;
