@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
 html {
     font-size: 70%;
 }
@@ -20,7 +26,7 @@ html {
 
 .nav {
     height: 10vh;
-    width: 100vw;
+    width: 100%;
     background: linear-gradient(to right, rgb(0 0 0 / 23%), rgb(0 0 0 / 32%)) #06060600;
     display: flex;
     justify-content: space-evenly;
